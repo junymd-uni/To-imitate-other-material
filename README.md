@@ -15,7 +15,7 @@ You can use unitypakage to import assets.
 ## Contribution
 
 ## Licence
-https://github.com/junymd-uni/To-imitate-other-material/blob/master/LICENSE
+[MIT] https://github.com/junymd-uni/To-imitate-other-material/blob/master/LICENSE
 ## Author
 
 [GE Planet] (https://ge-planet.com)
