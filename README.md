@@ -8,6 +8,7 @@ Transcribes a material when an object touches another object in Unity. It uses t
 
 ## Usage
 Paste imitate.cs into the non-working object.
+[Click here for more information] (https://ge-planet.com/en/2020/10/18/how-to-use-ontriggerenter-to-paste-a-material-onto-another-object/)
 
 ## Install
 You can use unitypakage to import assets.
@@ -17,4 +18,4 @@ You can use unitypakage to import assets.
 https://github.com/junymd-uni/To-imitate-other-material/blob/master/LICENSE
 ## Author
 
-[GE Planet](https://ge-planet.com)
+[GE Planet] (https://ge-planet.com)
