@@ -1,8 +1,7 @@
 # To-imitate-other-material
-You can use OnTriggerEnter to paste a material onto another object.
-====
 
-Overview
+====
+You can use OnTriggerEnter to paste a material onto another object.
 
 ## Description
 Unity上でオブジェクトが別のオブジェクトに接触したときに、マテリアルを転写します。
