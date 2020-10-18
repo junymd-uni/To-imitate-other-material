@@ -15,7 +15,7 @@ unitypakageでアセットを取り込むことができます。
 ## Contribution
 
 ## Licence
-
+https://github.com/junymd-uni/To-imitate-other-material/blob/master/LICENSE
 ## Author
 
 [GE Planet](https://ge-planet.com)
