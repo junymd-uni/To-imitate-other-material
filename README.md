@@ -4,14 +4,13 @@
 You can use OnTriggerEnter to paste a material onto another object.
 
 ## Description
-Unity上でオブジェクトが別のオブジェクトに接触したときに、マテリアルを転写します。
-タグを使って特定のオブジェクトのみ検知して、RendererをTrueに変えてマテリアルを張り替えます。
+Transcribes a material when an object touches another object in Unity. It uses tags to detect only certain objects, and then changes the Renderer to True to repaint the material.
 
 ## Usage
-動かない方のオブジェクトにimitate.csを貼り付けてください。
+Paste imitate.cs into the non-working object.
 
 ## Install
-unitypakageでアセットを取り込むことができます。
+You can use unitypakage to import assets.
 ## Contribution
 
 ## Licence
