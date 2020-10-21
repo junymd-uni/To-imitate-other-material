@@ -8,7 +8,7 @@ Transcribes a material when an object touches another object in Unity. It uses t
 
 ## Usage
 Paste imitate.cs into the non-working object.
-[Click here for more information] (https://ge-planet.com/en/2020/10/18/how-to-use-ontriggerenter-to-paste-a-material-onto-another-object/)
+[Click here for more information] (https://ge-planet.com/en/how-to-use-ontriggerenter-to-paste-a-material-onto-another-object/)
 
 ## Install
 You can use unitypakage to import assets.
